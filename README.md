@@ -8,8 +8,8 @@ It is assumed you have a Hyperledger Fabric node, with the prerequisite installa
 Step 1: clone this repo in fabric-samples directory
 ```
 cd fabric-samples
-git clone https://github.com/kctam/3org1ch.git
-cd 3org1ch
+git clone https://github.com/kctam/3org1ch_143.git
+cd 3org1ch_143
 ```
 
 Step 2: generate the required crypto material for organizations
